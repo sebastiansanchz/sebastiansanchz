@@ -37,11 +37,11 @@ Git, Postman, VS Code, Google Colab, Windows
 
 - **Chatbot for Introverts** – Rasa + Telegram, NLP project  
   Developed an **empathetic chatbot** that provides advice for socially anxious users using **Natural Language Processing**.  
-  [Demo](#) | [Code](#)
+  [Code](#)
 
-- **Portfolio Website** – Angular + HTML/CSS  
-  Designed a **responsive, modern personal portfolio** showcasing projects and skills.  
-  [Live](#) | [Code](#)
+- **Portfolio Website** – WordPress  
+  Designed and customized a **modern, responsive portfolio website** to showcase projects and skills, focusing on **usability, performance, and SEO**.  
+  [Live](#)
 
 ---
 
