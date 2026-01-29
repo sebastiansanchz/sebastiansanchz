@@ -43,19 +43,22 @@ Full Stack Developer with a **Systems Engineering degree from Universidad del Ca
 
 ## 💼 Professional Projects
 
-### 📦 Customer & Region Management API – *Enterprise REST API*
+### 📊 Customer & Region Management API – *Enterprise REST API*
 **Tech:** Spring Boot | Java 17 | MySQL | Docker | Swagger | Spring Data JPA | Render  
 **Professional Impact:** Developed a production-ready REST API for business customer and region management, implementing layered architecture, DTO patterns, and containerization. Features include data validation, relational database modeling, and comprehensive API documentation with OpenAPI 3.0.  
 🔗 **Live Demo:** [render.com/api-clientes](https://render.com/api-clientes) | 📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Back-Crud-Clientes)
 
-### 📦 API REST Gestión de Solicitudes – *Spring Boot REST API*
+### 📊 API REST Gestión de Solicitudes – *Spring Boot REST API*
 **Tech:** Spring Boot | PostgreSQL | JWT | ModelMapper | Docker | Spring Security | Render  
 **Professional Impact:** Built a secure and scalable request management system with JWT authentication, pagination, and advanced filtering. Implemented clean architecture principles and comprehensive error handling, demonstrating professional backend development practices.  
 🔗 **Swagger UI:** [render.com/swagger-ui](https://api-rest-gestion-solicitudes.onrender.com/swagger-ui.html) | 📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Api-Rest-Gestion-Solicitudes)
 
 ### 🤖 AI Chatbot for Mental Health Support – *Proyecto de Tesis de Grado en NLP/IA*
-**Tech:** Rasa | Python | Telegram API | NLP | IA 
-**Professional Impact:** Developed an empathetic AI assistant that provides psychological first aid resources and conversation support for socially anxious users. Implements intent recognition and sentiment analysis.  
+**Tech:** Rasa | Python | Telegram API | NLP | IA  
+**Professional Impact:** Developed an empathetic AI assistant for socially anxious users.  
+- Provides psychological first aid resources and conversation support  
+- Implements intent recognition and sentiment analysis  
+- Demonstrates practical NLP and ML applications  
 📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Prototipe-IntroBot)
 ---
 
@@ -66,14 +69,6 @@ Full Stack Developer with a **Systems Engineering degree from Universidad del Ca
 *Graduated with strong foundation in software engineering, algorithms, and systems design*
 
 **Relevant Coursework:** Software Engineering, Databases, Web Development, Algorithms, Systems Architecture
-
----
-
-## 📊 GitHub Activity
-
-![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastiansanchz&show_icons=true&theme=professional&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiansanchz&layout=compact&theme=professional&hide_border=true)
 
 ---
 
@@ -97,4 +92,4 @@ I'm actively seeking **challenging developer roles** where I can contribute my f
 
 ---
 
-✅ **Available for interviews immediately** | 📄 **CV available upon request**
+✅ **Available for interviews immediately**
