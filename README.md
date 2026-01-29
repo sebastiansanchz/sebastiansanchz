@@ -43,21 +43,20 @@ Full Stack Developer with a **Systems Engineering degree from Universidad del Ca
 
 ## 💼 Professional Projects
 
-### 📦 **Customer & Region Management API ** – *Enterprise REST API*
-**Tech:** Spring Boot | Java 17 | MySQL | Docker | Swagger | Spring Data JPA | Render 
-**Professional Impact:** Developed a production-ready REST API for business customer and region management, implementing layered architecture, DTO patterns, and containerization. Features include data validation, relational database modeling, and comprehensive API documentation with OpenAPI 3.0.
-🔗 **Live Demo:** [render.com/api-clientes ) | 📦 **Code:** [GitHub Repo)
+### 📦 Customer & Region Management API – *Enterprise REST API*
+**Tech:** Spring Boot | Java 17 | MySQL | Docker | Swagger | Spring Data JPA | Render  
+**Professional Impact:** Developed a production-ready REST API for business customer and region management, implementing layered architecture, DTO patterns, and containerization. Features include data validation, relational database modeling, and comprehensive API documentation with OpenAPI 3.0.  
+🔗 **Live Demo:** [render.com/api-clientes](https://render.com/api-clientes) | 📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Back-Crud-Clientes)
 
-### 📦 **API REST Gestión de Solicitudes  ** – *Spring Boot REST API*
-**Tech:** Spring Boot | PostgreSQL | JWT | ModelMapper | Docker | Spring Security | Render
-**Professional Impact:** Built a secure and scalable request management system with JWT authentication, pagination, and advanced filtering. Implemented clean architecture principles and comprehensive error handling, demonstrating professional backend development practices.
-🔗 Swagger UI: [render.com/swagger-ui](https://api-rest-gestion-solicitudes.onrender.com/swagger-ui.html) | 📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Api-Rest-Gestion-Solicitudes)
+### 📦 API REST Gestión de Solicitudes – *Spring Boot REST API*
+**Tech:** Spring Boot | PostgreSQL | JWT | ModelMapper | Docker | Spring Security | Render  
+**Professional Impact:** Built a secure and scalable request management system with JWT authentication, pagination, and advanced filtering. Implemented clean architecture principles and comprehensive error handling, demonstrating professional backend development practices.  
+🔗 **Swagger UI:** [render.com/swagger-ui](https://api-rest-gestion-solicitudes.onrender.com/swagger-ui.html) | 📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Api-Rest-Gestion-Solicitudes)
 
-### 🤖 **AI Chatbot for Mental Health Support** – *Proyecto de Tesis de Grado en NLP/IA*
-**Tech:** Rasa | Python | Telegram API | NLP | Machine Learning  
+### 🤖 AI Chatbot for Mental Health Support – *Proyecto de Tesis de Grado en NLP/IA*
+**Tech:** Rasa | Python | Telegram API | NLP | IA 
 **Professional Impact:** Developed an empathetic AI assistant that provides psychological first aid resources and conversation support for socially anxious users. Implements intent recognition and sentiment analysis.  
-
-📦 **Code:** [GitHub Repo] (https://github.com/sebastiansanchz/Prototipe-IntroBot)
+📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Prototipe-IntroBot)
 ---
 
 ## 🎓 Education & Credentials
