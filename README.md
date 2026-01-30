@@ -1,4 +1,4 @@
-# 👨‍💻 **Sebastián Sánchez**  
+# **Sebastián Sánchez**  
 
 **Systems Engineering Graduate | Full Stack Developer (Java Spring Boot & Angular)**  
 🏛️ *Universidad del Cauca* | 📍 **Colombia** (Open to Relocation/Remote)  
