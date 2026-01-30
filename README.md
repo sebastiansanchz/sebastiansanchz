@@ -52,7 +52,7 @@ Graduated Systems Engineer specializing in **Spring Boot backend** and **Angular
 ### 📦 Customer & Region Management API – Enterprise REST API
 **Tech:** Spring Boot | Java 17 | MySQL | Docker | Swagger | Spring Data JPA | Render | Maven  
 **Impact:** Developed a production-ready API for customer & region management. Features layered architecture, DTO patterns, validation, relational modeling, and OpenAPI docs.  
-🔗 [Live Demo](https://render.com/api-clientes) | 📦 [Code](https://github.com/sebastiansanchz/Back-Crud-Clientes)
+🔗 [Live Demo](https://render.com/api-clientes) | 📦 [Code Backend](https://github.com/sebastiansanchz/Back-Crud-Clientes) 📦 [Code Frontkend](https://github.com/sebastiansanchz/Crud-Clientes)
 
 ### 📦 API REST Gestión de Solicitudes – Spring Boot REST API
 **Tech:** Spring Boot | PostgreSQL | JWT | ModelMapper | Docker | Spring Security | Render | Maven  
