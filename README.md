@@ -1,5 +1,3 @@
-# **Sebastián Sánchez**  
-
 **Systems Engineering Graduate | Full Stack Developer (Java Spring Boot & Angular)**  
 🏛️ *Universidad del Cauca* | 📍 **Colombia** (Open to Relocation/Remote)  
 📧 **spjuan@unicauca.edu.co** | 🔗 **[LinkedIn](https://www.linkedin.com/in/juan-sebastian-sanchez-pizo/)** | 📱 **[Portfolio]**
