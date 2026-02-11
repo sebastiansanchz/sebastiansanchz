@@ -21,10 +21,10 @@ Graduated Systems Engineer specializing in **Spring Boot backend** and **Angular
 ## 💼 Professional Projects
 
 ### 📦 API REST Gestión de Clentes y Regiones – Spring REST API and Angular
-**Tech:** Spring Boot | Java 17 | MySQL | JWT | Docker | Spring Data JPA | Render | Maven | Swagger |
+**Tech:** Spring Boot | Java 17 | PosgreSQL | JWT | Docker | Spring Data JPA | Angular18 | Render | Maven | Swagger |
 **Impact:** Customer and region registration system with roles Web application for managing customers and regions, with role-based access control, allowing different levels of JWT permissions for secure and efficient administration.  
 🚧 Front-end (Angular) – Coming soon (deployment in progress)
-🔗[Live Swagger UI](https://back-crud-clientes-jwt.onrender.com/swagger-ui/index.html) | 📦 [Code Back-end](https://github.com/sebastiansanchz/Back-Crud-Clientes) 📦 [Code Front-end](https://github.com/sebastiansanchz/Crud-Clientes)  
+🔗[Live Swagger UI](https://back-crud-clientes-jwt.onrender.com/swagger-ui/index.html) | 📦 [Code Back-end](https://github.com/sebastiansanchz/Back-Crud-Clientes) 📦 [Code Front-end](https://github.com/juan-sanchezp/client-region-app)  
 📝 Note:  
 The API is deployed on Render (free tier).  
 Initial requests may take ~40–60 seconds due to cold start.
